@@ -81,8 +81,8 @@ $ php artisan serve
 ### Authors
 👤 **Ali**
 
-- GitHub: [@aliatayee](https://github.com/aliatayee)
-- Twitter: [@aqaatayee](https://twitter.com/aqaatayee)
+- GitHub: [@erico19 ](https://github.com/erico19)
+
 
 
 ## 🤝 Contributing
